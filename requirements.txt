@@ -1,0 +1,4 @@
+flask==2.1.2
+web3==5.22.0
+simplejson~=3.17.2
+RPi.GPIO==0.7.0 
